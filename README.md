@@ -1,2 +1,3 @@
-# study-material-arrays
+# Arrays
+
 notes on arrays
